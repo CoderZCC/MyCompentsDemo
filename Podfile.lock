@@ -1,0 +1,23 @@
+PODS:
+  - Common (0.1.0):
+    - CTMediator
+  - CTMediator (44)
+
+DEPENDENCIES:
+  - Common (from `Lib/Common`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  Common:
+    :path: Lib/Common
+
+SPEC CHECKSUMS:
+  Common: c65d60715e57a6dc0f1a2aae7dd7f66528ffafb1
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+
+PODFILE CHECKSUM: 19488031ed4eb94d36aaac5cdb31bc1b02c05b06
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,32 @@
+{
+  "name": "Common",
+  "version": "0.1.0",
+  "summary": "A short description of Common.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CoderZcc/Common",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CoderZcc": "coderzcca@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/CoderZcc/Common.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Common/Classes/**/*",
+  "resource_bundles": {
+    "Common": [
+      "Common/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
